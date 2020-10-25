@@ -1,0 +1,13 @@
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/StockTracker
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/StockTracker.deps.json
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/StockTracker.runtimeconfig.json
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/StockTracker.runtimeconfig.dev.json
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/StockTracker.dll
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/StockTracker.pdb
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.csprojAssemblyReference.cache
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.AssemblyInfoInputs.cache
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.AssemblyInfo.cs
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.csproj.CoreCompileInputs.cache
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.dll
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.pdb
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/StockTracker.genruntimeconfig.cache

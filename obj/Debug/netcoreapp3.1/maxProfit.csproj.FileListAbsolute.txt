@@ -1,0 +1,13 @@
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/maxProfit
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/maxProfit.deps.json
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/maxProfit.runtimeconfig.json
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/maxProfit.runtimeconfig.dev.json
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/maxProfit.dll
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/bin/Debug/netcoreapp3.1/maxProfit.pdb
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.csprojAssemblyReference.cache
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.AssemblyInfoInputs.cache
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.AssemblyInfo.cs
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.csproj.CoreCompileInputs.cache
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.dll
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.pdb
+/home/boitumelo/Documents/nextmoves/stdbank/maxProfit/obj/Debug/netcoreapp3.1/maxProfit.genruntimeconfig.cache

@@ -8,8 +8,8 @@
         {
             static void Main(string[] args)
             {
-                StockTracker maxProfittracker = new StockTracker();
-                maxProfittracker.maxProfit();
+                StockTracker maxProfitTracker = new StockTracker();
+                maxProfitTracker.maxProfit();
             }
             public void maxProfit()
             {
@@ -52,7 +52,7 @@
                 //find higest priced stock after the lowest price stock day
                 var stocksAfterbuyDayQuery = 
                     from stockAfterBuy in Stocks.Distinct()
-                    where stockAfterBuy.day >= lowPricedStock.day
+                    where stockAfterBuy.day > lowPricedStock.day
                     select stockAfterBuy;
 
                 var highPrice = 0;
@@ -104,12 +104,12 @@
                 // new Stock {day=4, lowPrice=51,highPrice=60},
                 // new Stock {day=5, lowPrice=51,highPrice=60}                
                 //new Stock {day=6, lowPrice=45,highPrice=69}
+                new Stock {day=1, lowPrice=51,highPrice=59},
+                new Stock {day=2, lowPrice=53,highPrice=57},
+                new Stock {day=3, lowPrice=52,highPrice=60},
+                new Stock {day=4, lowPrice=49,highPrice=58},
+                new Stock {day=5, lowPrice=50,highPrice=55}
                 
-                new Stock {day=1, lowPrice=53,highPrice=57},
-                new Stock {day=2, lowPrice=52,highPrice=60},
-                new Stock {day=3, lowPrice=49,highPrice=58},
-                new Stock {day=4, lowPrice=50,highPrice=55},
-                new Stock {day=5, lowPrice=51,highPrice=59}
                 
             };
         }
